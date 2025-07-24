@@ -2,7 +2,7 @@
 
 ## Descripción
 
-Sitio web institucional profesional y moderno para Juan Martín Marina, Dev Sr. en Naranja X especializado en Martech, AdTech y Data Science. El sitio refleja la trayectoria profesional completa en más de 12 empresas incluyendo Naranja X, The Walt Disney Company, OLX Group, La Bioguia, Kids Corp, Mobile Streams, IMS, Headway Digital y Sony, con más de 13 años de experiencia en el mercado digital.
+Sitio web institucional profesional y moderno. El sitio refleja la trayectoria profesional completa en más de 12 empresas incluyendo Naranja X, The Walt Disney Company, OLX Group, La Bioguia, Kids Corp, Mobile Streams, IMS, Headway Digital y Sony, con más de 13 años de experiencia en el mercado digital.
 
 ## Características
 
