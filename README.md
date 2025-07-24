@@ -62,20 +62,20 @@ Sitio web institucional profesional y moderno para Juan Martín Marina, Dev Sr. 
 - Conexión a internet (para fuentes y iconos)
 
 ### Instalación Local
-1. Clona o descarga los archivos del proyecto
-2. Abre `index.html` en tu navegador
+1. Clonar o descargar los archivos del proyecto
+2. Abrir `index.html` en tu navegador
 3. ¡Listo! El sitio está funcionando
 
 ### Desarrollo
 Para modificar el sitio:
-1. Edita `index.html` para cambios en la estructura
-2. Modifica `styles.css` para cambios de diseño
-3. Actualiza `script.js` para funcionalidades
+1. Editar `index.html` para cambios en la estructura
+2. Modificar `styles.css` para cambios de diseño
+3. Actualizar `script.js` para funcionalidades
 
 ## Personalización
 
 ### Colores
-Los colores principales están definidos en variables CSS en `styles.css`:
+Definir los colores principales en variables CSS en `styles.css`:
 ```css
 :root {
     --primary-color: #6366f1;
@@ -86,13 +86,13 @@ Los colores principales están definidos en variables CSS en `styles.css`:
 ```
 
 ### Contenido
-- Actualiza la información personal en `index.html`
-- Modifica las experiencias profesionales
-- Agrega o quita proyectos según sea necesario
-- Actualiza enlaces de contacto
+- Actualizar la información personal en `index.html`
+- Modificar las experiencias profesionales
+- Agregar o quitar proyectos según sea necesario
+- Actualizar enlaces de contacto
 
 ### Animaciones
-Las animaciones están configuradas en `script.js` y pueden ser ajustadas modificando:
+Configurar las animaciones en `script.js` y ajustar:
 - Velocidades de animación
 - Efectos de entrada
 - Comportamientos de hover
@@ -133,7 +133,6 @@ Este proyecto es de uso personal y profesional para Juan Martín Marina.
 
 Para consultas sobre el sitio o colaboraciones:
 - LinkedIn: [Juan Martín Marina](https://www.linkedin.com/in/datascience-programmatic/)
-- Email: juanmartin.marina@hotmail.com
 
 ---
 
